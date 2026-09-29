@@ -53,6 +53,24 @@ const GUNS = [
     description:
       'The other pump gun. Twin action bars, a simple safety on the tang, and a price that leaves money for ammunition.',
   },
+  {
+    name: 'Vandal',
+    type: 'Rifle',
+    caliber: 'Unlimited',
+    price: 99999,
+    image: '/guns/vandal.jpg',
+    description:
+      'Senjata auto one hit',
+  },
+  {
+    name: 'Phantom',
+    type: 'Rifle',
+    caliber: 'Unlimited',
+    price: 99999,
+    image: '/guns/phantom.jpg',
+    description:
+      'Senjata auto one hit',
+  },
 ]
 
 export default GUNS
